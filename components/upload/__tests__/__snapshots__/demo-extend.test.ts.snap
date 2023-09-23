@@ -9,7 +9,7 @@ Array [
       class="ant-upload ant-upload-select"
     >
       <span
-        class="ant-upload"
+        class="ant-upload-trigger"
         role="button"
         tabindex="0"
       >
@@ -57,7 +57,7 @@ Array [
       class="ant-upload ant-upload-select"
     >
       <span
-        class="ant-upload"
+        class="ant-upload-trigger"
         role="button"
         tabindex="0"
       >
@@ -111,7 +111,7 @@ exports[`renders components/upload/demo/basic.tsx extend context correctly 1`] =
     class="ant-upload ant-upload-select"
   >
     <span
-      class="ant-upload"
+      class="ant-upload-trigger"
       role="button"
       tabindex="0"
     >
@@ -169,7 +169,7 @@ exports[`renders components/upload/demo/component-token.tsx extend context corre
     class="ant-upload ant-upload-select"
   >
     <span
-      class="ant-upload"
+      class="ant-upload-trigger"
       role="button"
       tabindex="0"
     >
@@ -469,7 +469,7 @@ exports[`renders components/upload/demo/customize-progress-bar.tsx extend contex
     class="ant-upload ant-upload-select"
   >
     <span
-      class="ant-upload"
+      class="ant-upload-trigger"
       role="button"
       tabindex="0"
     >
@@ -527,7 +527,7 @@ exports[`renders components/upload/demo/defaultFileList.tsx extend context corre
     class="ant-upload ant-upload-select"
   >
     <span
-      class="ant-upload"
+      class="ant-upload-trigger"
       role="button"
       tabindex="0"
     >
@@ -827,7 +827,7 @@ exports[`renders components/upload/demo/directory.tsx extend context correctly 1
     class="ant-upload ant-upload-select"
   >
     <span
-      class="ant-upload"
+      class="ant-upload-trigger"
       role="button"
       tabindex="0"
     >
@@ -887,7 +887,7 @@ exports[`renders components/upload/demo/drag.tsx extend context correctly 1`] = 
     class="ant-upload ant-upload-drag"
   >
     <span
-      class="ant-upload ant-upload-btn"
+      class="ant-upload-trigger ant-upload-btn"
       role="button"
       tabindex="0"
     >
@@ -953,7 +953,7 @@ Array [
       class="ant-upload ant-upload-select"
     >
       <span
-        class="ant-upload"
+        class="ant-upload-trigger"
         role="button"
         tabindex="0"
       >
@@ -2090,7 +2090,7 @@ exports[`renders components/upload/demo/file-type.tsx extend context correctly 1
       class="ant-upload ant-upload-select"
     >
       <span
-        class="ant-upload"
+        class="ant-upload-trigger"
         role="button"
         tabindex="0"
       >
@@ -2144,7 +2144,7 @@ exports[`renders components/upload/demo/fileList.tsx extend context correctly 1`
     class="ant-upload ant-upload-select"
   >
     <span
-      class="ant-upload"
+      class="ant-upload-trigger"
       role="button"
       tabindex="0"
     >
@@ -2285,7 +2285,7 @@ exports[`renders components/upload/demo/max-count.tsx extend context correctly 1
         class="ant-upload ant-upload-select"
       >
         <span
-          class="ant-upload"
+          class="ant-upload-trigger"
           role="button"
           tabindex="0"
         >
@@ -2342,7 +2342,7 @@ exports[`renders components/upload/demo/max-count.tsx extend context correctly 1
         class="ant-upload ant-upload-select"
       >
         <span
-          class="ant-upload"
+          class="ant-upload-trigger"
           role="button"
           tabindex="0"
         >
@@ -2917,7 +2917,7 @@ exports[`renders components/upload/demo/picture-card.tsx extend context correctl
       class="ant-upload ant-upload-select"
     >
       <span
-        class="ant-upload"
+        class="ant-upload-trigger"
         role="button"
         tabindex="0"
       >
@@ -3218,7 +3218,7 @@ exports[`renders components/upload/demo/picture-circle.tsx extend context correc
       class="ant-upload ant-upload-select"
     >
       <span
-        class="ant-upload"
+        class="ant-upload-trigger"
         role="button"
         tabindex="0"
       >
@@ -3273,7 +3273,7 @@ Array [
       class="ant-upload ant-upload-select"
     >
       <span
-        class="ant-upload"
+        class="ant-upload-trigger"
         role="button"
         tabindex="0"
       >
@@ -3570,7 +3570,7 @@ Array [
       class="ant-upload ant-upload-select"
     >
       <span
-        class="ant-upload"
+        class="ant-upload-trigger"
         role="button"
         tabindex="0"
       >
@@ -3871,7 +3871,7 @@ exports[`renders components/upload/demo/preview-file.tsx extend context correctl
     class="ant-upload ant-upload-select"
   >
     <span
-      class="ant-upload"
+      class="ant-upload-trigger"
       role="button"
       tabindex="0"
     >
@@ -3929,7 +3929,7 @@ exports[`renders components/upload/demo/transform-file.tsx extend context correc
     class="ant-upload ant-upload-select"
   >
     <span
-      class="ant-upload"
+      class="ant-upload-trigger"
       role="button"
       tabindex="0"
     >
@@ -3987,7 +3987,7 @@ exports[`renders components/upload/demo/upload-custom-action-icon.tsx extend con
     class="ant-upload ant-upload-select"
   >
     <span
-      class="ant-upload"
+      class="ant-upload-trigger"
       role="button"
       tabindex="0"
     >
@@ -4306,7 +4306,7 @@ Array [
       class="ant-upload ant-upload-select"
     >
       <span
-        class="ant-upload"
+        class="ant-upload-trigger"
         role="button"
         tabindex="0"
       >
@@ -4375,7 +4375,7 @@ exports[`renders components/upload/demo/upload-png-only.tsx extend context corre
     class="ant-upload ant-upload-select"
   >
     <span
-      class="ant-upload"
+      class="ant-upload-trigger"
       role="button"
       tabindex="0"
     >
@@ -4462,7 +4462,7 @@ exports[`renders components/upload/demo/upload-with-aliyun-oss.tsx extend contex
                 class="ant-upload ant-upload-select"
               >
                 <span
-                  class="ant-upload"
+                  class="ant-upload-trigger"
                   role="button"
                   tabindex="0"
                 >
